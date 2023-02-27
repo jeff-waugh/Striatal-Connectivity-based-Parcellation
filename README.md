@@ -28,7 +28,9 @@ isotropic, this target volume is 180 voxels. For DTI volumes captured at 2 mm is
 subjects/hemispheres that do not solve using the "CreatesEqual" script. Your goal is to have equal volume masks for every subject and hemisphere.
 
 Details of each parcellation group:
+
 2018.C - the final set of regions used for our 2022 NeuroImage methods paper (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9142299/). This set of bait
 regions includes both cortical and subcortical ROIs.
+
 2020.C - the set of regions used for our 2023 paper that mapped connectiviy between the striatal compartments and 20 thalamic nuclei. This set of bait 
 regions includes ONLY cortical ROIs, as the goal of the paper was to utilize the pallidum and thalamus for mapping and quantifying connectivity.
