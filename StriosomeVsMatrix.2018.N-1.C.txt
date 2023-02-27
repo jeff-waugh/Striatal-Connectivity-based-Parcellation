@@ -1,0 +1,8 @@
+trBA_1_2_3		trMediodorsalThalamus
+VLc_VPLo.symm		PosteriorOrbitofrontal
+trPMC			BasolateralAmygdala
+trGlobusPallidusInterna	BasalOperculum
+trSMC			XXX
+
+
+Tests: trAntInsula

@@ -1,0 +1,9 @@
+trInferiorFrontalGyrus.PO.posteriosuperior	PosteriorOrbitofrontal
+trSMC						Anterior2Gyri.Insula		 
+trPMC						BasolateralAmygdala
+trSuperiorParietal				BasalOperculum
+trBA_1_2_3					XXX
+
+
+Tests: trTemporalFusiformCortex.posterior
+

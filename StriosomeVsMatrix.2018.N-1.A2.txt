@@ -1,0 +1,9 @@
+VLc_VPLo.symm		PosteriorOrbitofrontal
+trSMC			Anterior2Gyri.Insula		 
+trPMC			BasolateralAmygdala
+trGlobusPallidusInterna	BasalOperculum
+trBA_1_2_3		XXX
+
+
+
+Tests: trMediodorsalThalamus
